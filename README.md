@@ -9,8 +9,10 @@
 
 Clone the repository:
 
-```
+```sh
 git clone https://github.com/XutaoG/simple-crypto-price-tracker.git
+cd simple-crypto-price-tracker
+
 ```
 
 ### Next.js
